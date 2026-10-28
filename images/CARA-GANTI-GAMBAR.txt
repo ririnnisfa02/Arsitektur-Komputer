@@ -1,0 +1,47 @@
+CARA MENGGANTI GAMBAR — TANPA EDIT HTML
+========================================
+
+Anda TIDAK perlu membuka atau mengedit file index.html.
+Cukup:
+1. Siapkan gambar (JPG/JPEG/PNG/WEBP/SVG).
+2. Drag & drop gambar ke folder sesuai.
+3. Samakan NAMA FILE sebelum ekstensi.
+4. Buka ulang index.html.
+
+Contoh:
+- gambar CPU Anda -> images/photos/02-cpu-komputer.jpg
+- foto Von Neumann -> images/photos/01-von-neumann-portrait.png
+- diagram arsitektur -> images/photos/01-von-neumann-architecture.webp
+- logo Windows -> images/os/windows.png
+- logo macOS -> images/os/macos.jpg
+- logo Linux -> images/os/linux.png
+
+Nama yang dapat diganti:
+
+images/photos/
+01-von-neumann-portrait
+01-von-neumann-architecture
+02-cpu-komputer
+03-ram
+03-rom-chip
+03-hdd
+03-ssd
+
+images/os/
+windows
+macos
+linux
+
+images/functions/
+07-memory-management
+07-file-management
+07-process-management
+07-io-management
+07-security-management
+
+CATATAN:
+- Ekstensi gambar boleh berbeda: JPG, JPEG, PNG, WEBP, atau SVG.
+- Sistem akan mencoba mencari gambar pengganti secara otomatis.
+- Gambar JPG/PNG/WEBP akan diprioritaskan sebelum SVG bawaan.
+- Jadi Anda bisa menyimpan gambar bawaan sebagai cadangan dan cukup menambahkan gambar baru.
+- Tidak perlu mengubah isi HTML.

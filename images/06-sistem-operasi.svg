@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-label="Sistem Operasi sebagai penghubung">
+    <rect width="1000" height="520" rx="28" fill="#f8fafc"/>
+    
+<rect x="90" y="75" width="820" height="110" rx="24" fill="#f1f5f9" stroke="#64748b" stroke-width="4"/>
+<text x="500" y="142" text-anchor="middle" font-size="32" font-weight="700">PENGGUNA</text>
+<path d="M500 190 V220" stroke="#334155" stroke-width="5"/>
+<rect x="180" y="225" width="640" height="110" rx="24" fill="#e0f2fe" stroke="#0284c7" stroke-width="5"/>
+<text x="500" y="292" text-anchor="middle" font-size="32" font-weight="700">SISTEM OPERASI (OS)</text>
+<path d="M500 340 V370" stroke="#334155" stroke-width="5"/>
+<rect x="90" y="380" width="820" height="80" rx="20" fill="#dcfce7" stroke="#16a34a" stroke-width="4"/>
+<text x="500" y="430" text-anchor="middle" font-size="25" font-weight="700">PERANGKAT KERAS + APLIKASI</text>
+
+    </svg>

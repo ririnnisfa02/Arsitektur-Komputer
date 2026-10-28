@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-label="Perangkat Input dan Output">
+    <rect width="1000" height="520" rx="28" fill="#f8fafc"/>
+    
+<rect x="70" y="120" width="240" height="270" rx="25" fill="#dcfce7" stroke="#16a34a" stroke-width="5"/>
+<text x="190" y="170" text-anchor="middle" font-size="30" font-weight="700">INPUT</text>
+<text x="190" y="225" text-anchor="middle" font-size="22">Keyboard</text>
+<text x="190" y="265" text-anchor="middle" font-size="22">Mouse</text>
+<text x="190" y="305" text-anchor="middle" font-size="22">Scanner</text>
+<text x="190" y="345" text-anchor="middle" font-size="22">Microphone</text>
+<rect x="380" y="170" width="240" height="170" rx="25" fill="#e0f2fe" stroke="#0284c7" stroke-width="5"/>
+<text x="500" y="225" text-anchor="middle" font-size="30" font-weight="700">KOMPUTER</text>
+<text x="500" y="270" text-anchor="middle" font-size="22">CPU + Memori</text>
+<text x="500" y="310" text-anchor="middle" font-size="18">memproses data</text>
+<rect x="690" y="120" width="240" height="270" rx="25" fill="#fef3c7" stroke="#d97706" stroke-width="5"/>
+<text x="810" y="170" text-anchor="middle" font-size="30" font-weight="700">OUTPUT</text>
+<text x="810" y="225" text-anchor="middle" font-size="22">Monitor</text>
+<text x="810" y="265" text-anchor="middle" font-size="22">Printer</text>
+<text x="810" y="305" text-anchor="middle" font-size="22">Speaker</text>
+<path d="M310 255 H370" stroke="#334155" stroke-width="5"/>
+<path d="M630 255 H680" stroke="#334155" stroke-width="5"/>
+<text x="500" y="450" text-anchor="middle" font-size="21" fill="#475569">Input memasukkan data • Output menampilkan hasil</text>
+
+    </svg>
